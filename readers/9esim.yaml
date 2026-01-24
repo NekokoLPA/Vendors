@@ -1,0 +1,35 @@
+# Brand-level grouping for easier maintenance on GitHub.
+# Display name for the brand.
+brand: 9eSIM
+# List of card readers for this brand.
+readers:
+
+  # Product name.
+  - name: 9eSIM Card Reader
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 13.5
+      # Original price amount.
+      amount: 15
+      # ISO 4217 currency code.
+      currency: USD
+
+    # Default description text.
+    description: "USB Type-C CCID reader"
+
+    # Product image URL.
+    image: https://www.9esim.com/wp-content/uploads/2024/07/2N5A9752_%E5%89%AF%E6%9C%AC-1-768x768.png
+
+    # Whether the listing is sponsored.
+    sponsored: true
+
+    # Purchase links for this reader.
+    shops:
+
+      # Shop URL.
+      - url: https://www.9esim.com/cart/?add-to-cart=64&coupon=nekoko
+
+        # Store branding info.
+        storeName: 9eSIM
