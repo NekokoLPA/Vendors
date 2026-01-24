@@ -158,7 +158,7 @@ cards:
     sizeKB: 1616
 
     # Hard limit on supported profiles (blank means no limit).
-    maxSupportedProfiles: null
+    maxSupportedProfiles: 62
 
     # EID prefix or sample.
     eid: "89033023"
