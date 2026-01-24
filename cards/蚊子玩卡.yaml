@@ -1,11 +1,11 @@
 # Brand-level grouping for easier maintenance on GitHub.
 # Display name for the brand.
-brand: Wenziwanka
+brand: 蚊子玩卡
 # List of physical cards for this brand.
 cards:
 
   # Product name.
-  - name: Wenziwanka S3
+  - name: 蚊子玩卡 S3
 
     # Price information.
     price:
@@ -17,14 +17,14 @@ cards:
       currency: CNY
 
     # Default description text.
-    description: "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子湾社区 ARAM 配置文件。"
+    description: "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子玩卡社区 ARAM 配置文件。"
 
     # Localized descriptions.
     descriptionIntl:
       # English description.
       en: "Removable eSIM card with 466KB capacity, capable of storing 2-40 eSIM profiles. Compatible with Android Multi build only. Includes 1 ARAM profile from Wenziwanka community."
       # Chinese description.
-      zh: "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子湾社区 ARAM 配置文件。"
+      zh: "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子玩卡社区 ARAM 配置文件。"
       # Japanese description.
       ja: "466KB 容量の取り外し可能な eSIM カードで、2-40 個の eSIM プロファイルを保存可能。Android Multi ビルドのみ互換性があります。Wenziwanka コミュニティの ARAM プロファイル 1 個を含みます。"
 
