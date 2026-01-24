@@ -29,7 +29,7 @@ readers:
       ja: "Bluetooth Low Energy（BLE）と USB CCID の両方の接続をサポートするデュアルモードカードリーダー。ワイヤレスおよび有線 eSIM カード管理に最適です。"
 
     # Product image URL.
-    image: https://store.estk.me/images/products/2
+    image: https://api.estk.me/uploads/images/1762667014_f0c649b1.png
 
     # Whether the listing is sponsored.
     sponsored: true
