@@ -1,0 +1,28 @@
+name: Validate PR
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Validate names
+        run: ./scripts/validate_names.rb
+
+      - name: Build supported.json
+        run: ./build.sh
+
+      - name: Verify supported.json is up to date
+        run: git diff --exit-code supported.json

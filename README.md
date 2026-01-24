@@ -2,6 +2,8 @@
 
 This repository contains vendor-provided data for supported physical eSIM cards and card readers used by NekokoLPA 2.
 
+中文说明: `README.zh-cn.md`
+
 ## Structure
 
 - `cards/`: YAML files grouped by brand for physical eSIM cards
