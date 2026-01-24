@@ -1,4 +1,4 @@
-name: Build and Release supported.json
+name: Build and Publish supported.json
 
 on:
   push:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build-release:
+  build-release-branch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,13 +19,12 @@ jobs:
         run: |
           ./build.sh
 
-      - name: Publish release asset
-        uses: ncipollo/release-action@v1
-        with:
-          tag: latest
-          name: latest
-          commit: ${{ github.sha }}
-          artifacts: supported.json
-          allowUpdates: true
-          replacesArtifacts: true
-          generateReleaseNotes: true
+      - name: Publish to release branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin release:release || true
+          git checkout -B release
+          git add -f supported.json
+          git commit -m "chore: update supported.json" || echo "No changes to commit"
+          git push -f origin release

@@ -32,7 +32,7 @@ readers:
     image: https://store.estk.me/images/products/2
 
     # Whether the listing is sponsored.
-    sponsored: false
+    sponsored: true
 
     # Purchase links for this reader.
     shops:
