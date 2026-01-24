@@ -12,7 +12,6 @@ STANDARD_SHA1 = "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f"
 SEKIU_SHA1 = "c47350c7ba682b34a3e584a0d58463ea42b1ad73"
 EASY_EUICC_SHA1 = "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
 ESTK_ME_SHA1 = "6666666666a2bd0baf0a822766b4f6522500a655"
-ALL_APPS = ["EasyEuicc", "ESTK.me", "9eSIM"].freeze
 MULTI_SHA1S = [
   "114514191909beef280ca91de875403b03999682",
   "65d0571854afec519a90f92d7c5d8cf8148da373",
@@ -50,10 +49,9 @@ end
 def other_apps_from_sha1s(sha1s, existing, changeable)
   apps = Array(existing).compact.map(&:to_s)
   if changeable
-    apps.concat(ALL_APPS)
+    apps << "Any App"
   else
-    apps << "EasyEuicc" if sha1s.include?(EASY_EUICC_SHA1)
-    apps << "ESTK.me" if sha1s.include?(ESTK_ME_SHA1)
+    apps << "EasyEUICC" if sha1s.include?(EASY_EUICC_SHA1)
   end
   apps.uniq
 end
@@ -85,5 +83,5 @@ output = {
   "cardReaders" => readers,
 }
 
-File.write(File.join(root, "supported.json"), JSON.pretty_generate(output) + "\n")
+File.write(File.join(root, "output.json"), JSON.pretty_generate(output) + "\n")
 RUBY
