@@ -83,5 +83,5 @@ output = {
   "cardReaders" => readers,
 }
 
-File.write(File.join(root, "output.json"), JSON.pretty_generate(output) + "\n")
+File.write(File.join(root, "supported.json"), JSON.pretty_generate(output) + "\n")
 RUBY
