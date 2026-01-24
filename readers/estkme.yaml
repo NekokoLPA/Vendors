@@ -1,0 +1,44 @@
+# Brand-level grouping for easier maintenance on GitHub.
+# Display name for the brand.
+brand: ESTKme
+# List of card readers for this brand.
+readers:
+
+  # Product name.
+  - name: ESTKme Red BLE/CCID Dual-mode Reader
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 40.5
+      # Original price amount.
+      amount: 45
+      # ISO 4217 currency code.
+      currency: HKD
+
+    # Default description text.
+    description: "Dual-mode card reader supporting both Bluetooth Low Energy (BLE) and USB CCID connections. Perfect for wireless and wired eSIM card management."
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "Dual-mode card reader supporting both Bluetooth Low Energy (BLE) and USB CCID connections. Perfect for wireless and wired eSIM card management."
+      # Chinese description.
+      zh: "支持蓝牙低功耗（BLE）和 USB CCID 连接的双模式读卡器。完美适用于无线和有线 eSIM 卡管理。"
+      # Japanese description.
+      ja: "Bluetooth Low Energy（BLE）と USB CCID の両方の接続をサポートするデュアルモードカードリーダー。ワイヤレスおよび有線 eSIM カード管理に最適です。"
+
+    # Product image URL.
+    image: https://store.estk.me/images/products/2
+
+    # Whether the listing is sponsored.
+    sponsored: false
+
+    # Purchase links for this reader.
+    shops:
+
+      # Shop URL.
+      - url: https://store.estk.me/products/2?code=nekoko
+
+        # Store branding info.
+        storeName: ESTKme

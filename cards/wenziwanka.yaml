@@ -1,0 +1,61 @@
+# Brand-level grouping for easier maintenance on GitHub.
+# Display name for the brand.
+brand: Wenziwanka
+# List of physical cards for this brand.
+cards:
+
+  # Product name.
+  - name: Wenziwanka S3
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 60
+      # Original price amount.
+      amount: 60
+      # ISO 4217 currency code.
+      currency: CNY
+
+    # Default description text.
+    description: "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子湾社区 ARAM 配置文件。"
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "Removable eSIM card with 466KB capacity, capable of storing 2-40 eSIM profiles. Compatible with Android Multi build only. Includes 1 ARAM profile from Wenziwanka community."
+      # Chinese description.
+      zh: "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子湾社区 ARAM 配置文件。"
+      # Japanese description.
+      ja: "466KB 容量の取り外し可能な eSIM カードで、2-40 個の eSIM プロファイルを保存可能。Android Multi ビルドのみ互換性があります。Wenziwanka コミュニティの ARAM プロファイル 1 個を含みます。"
+
+    # Card storage size in KB.
+    sizeKB: 466
+
+    # EID prefix or sample.
+    eid: "89086030"
+
+    # Product image URL.
+    image: https://shop.wenziwanka.com/uploads/tinymce/images/6c6ed8ae6dc7aec7bef4698743274dde683876dc5fc7f.png
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: false
+
+    # Whether the listing is sponsored.
+    sponsored: true
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://shop.wenziwanka.com/buy/18
+
+        # Store branding info.
+        storeName: 蚊子玩卡
+
+        # ISO 3166-1 alpha-2 shipping country.
+        shippingCountry: CN

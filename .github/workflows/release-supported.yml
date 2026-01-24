@@ -1,0 +1,31 @@
+name: Build and Release supported.json
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  build-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build supported.json
+        run: |
+          ./build.sh
+
+      - name: Publish release asset
+        uses: ncipollo/release-action@v1
+        with:
+          tag: latest
+          name: latest
+          commit: ${{ github.sha }}
+          artifacts: supported.json
+          allowUpdates: true
+          replacesArtifacts: true
+          generateReleaseNotes: true

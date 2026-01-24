@@ -1,0 +1,66 @@
+# Brand-level grouping for easier maintenance on GitHub.
+# Display name for the brand.
+brand: eSIM.gg
+# List of physical cards for this brand.
+cards:
+
+  # Product name.
+  - name: eSIM.gg Card
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 6.99
+      # Original price amount.
+      amount: 6.99
+      # ISO 4217 currency code.
+      currency: USD
+
+    # Default description text.
+    description: "480 KB 容量，约 12 个配置文件。采用 9eSIM v0 同款芯片 (89086030)。兼容 Standard 构建版本，适合预算有限但希望探索更多 eSIM 的用户。"
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "480 KB capacity, ~12 profiles. Uses the same 9eSIM v0 chip (89086030). Compatible with Standard build, perfect for budget-conscious users exploring eSIM."
+      # Chinese description.
+      zh: "480 KB 容量，约 12 个配置文件。采用 9eSIM v0 同款芯片 (89086030)。兼容 Standard 构建版本，适合预算有限但希望探索更多 eSIM 的用户。"
+      # Japanese description.
+      ja: "480 KB 容量、約 12 プロファイル。9eSIM v0 と同じチップ (89086030) を使用。Standard ビルドと互換性があり、予算に限りがあるが eSIM をもっと探索したいユーザーに最適です。"
+
+    # Card storage size in KB.
+    sizeKB: 480
+
+    # EID prefix or sample.
+    eid: "89086030"
+
+    # Product image URL.
+    image: https://esim.gg/esimgg.png
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: false
+
+    # Whether the listing is sponsored.
+    sponsored: true
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://esim.gg/collab/esimgg
+
+        # Store branding info.
+        storeName: eSIM.gg
+
+        # ISO 3166-1 alpha-2 shipping country.
+        shippingCountry: CN

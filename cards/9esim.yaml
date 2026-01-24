@@ -1,0 +1,282 @@
+# Brand-level grouping for easier maintenance on GitHub.
+# Display name for the brand.
+brand: 9eSIM
+# List of physical cards for this brand.
+cards:
+
+  # Product name.
+  - name: 9eSIM v3
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 21.6
+      # Original price amount.
+      amount: 24
+      # ISO 4217 currency code.
+      currency: USD
+
+    # Default description text.
+    description: "1.5 MB capacity, up to 50 profiles. By Kigen (89044045). Latest 9eSIM card compatible with Standard build and 9eSIM official app."
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "1.5 MB capacity, up to 50 profiles. By Kigen (89044045). Latest 9eSIM card compatible with Standard build and 9eSIM official app."
+      # Chinese description.
+      zh: "1.5 MB 容量，最多 50 个配置文件。由 Kigen (89044045) 制造。最新的 9eSIM 卡，兼容 Standard 构建版本和 9eSIM 官方应用。"
+      # Japanese description.
+      ja: "1.5 MB 容量、最大 50 プロファイル。Kigen (89044045) 製。最新の 9eSIM カードで、Standard ビルドと 9eSIM 公式アプリと互換性があります。"
+
+    # Card storage size in KB.
+    sizeKB: 1536
+
+    # EID prefix or sample.
+    eid: "89044045"
+
+    # Estimated number of eSIM profiles.
+    esimEstimate: up to 50
+
+    # Product image URL.
+    image: https://www.9esim.com/wp-content/uploads/2025/01/红色V3-2.webp
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: false
+
+    # Whether the listing is sponsored.
+    sponsored: false
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://9es.im/
+
+        # Store branding info.
+        storeName: 9eSIM
+
+        # ISO 3166-1 alpha-2 shipping country or null if unspecified.
+        shippingCountry: null
+
+      # Shop URL.
+      - url: https://detail.tmall.com/item.htm?id=910238284991
+
+        # Store identifier.
+        store: tmall
+
+        # Store display label.
+        label: 天猫
+
+        # ISO 3166-1 alpha-2 shipping country.
+        shippingCountry: CN
+
+  # Product name.
+  - name: 9eSIM V2S
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 99
+      # Original price amount.
+      amount: 99
+      # ISO 4217 currency code.
+      currency: CNY
+
+    # Default description text.
+    description: "1.5 MB 容量，最多 50 个配置文件。由 Kigen (89044045) 制造。支持多设备（Android、iOS），可轻松切换配置文件。"
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "1.5 MB capacity, up to 50 profiles. By Kigen (89044045). Supports multiple devices (Android, iOS) and allows easy profile switching."
+      # Chinese description.
+      zh: "1.5 MB 容量，最多 50 个配置文件。由 Kigen (89044045) 制造。支持多设备（Android、iOS），可轻松切换配置文件。"
+      # Japanese description.
+      ja: "1.5 MB 容量、最大 50 プロファイル。Kigen (89044045) 製。複数のデバイス（Android、iOS）をサポートし、プロファイルの切り替えが簡単です。"
+
+    # Card storage size in KB.
+    sizeKB: 1600
+
+    # EID prefix or sample.
+    eid: "89044045"
+
+    # Estimated number of eSIM profiles.
+    esimEstimate: up to 50
+
+    # Product image URL.
+    image: https://shop.wenziwanka.com/uploads/tinymce/images/8dbbdabb0cf25706f5c8adef31c1f6cc672f1107108e4.png
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: false
+
+    # Whether the listing is sponsored.
+    sponsored: false
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://shop.wenziwanka.com/buy/21
+
+        # Store branding info.
+        storeName: 蚊子玩卡
+
+        # ISO 3166-1 alpha-2 shipping country.
+        shippingCountry: CN
+
+  # Product name.
+  - name: 9eSIM v0 Max
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 16.2
+      # Original price amount.
+      amount: 18
+      # ISO 4217 currency code.
+      currency: USD
+
+    # Default description text.
+    description: "1 MB 容量，约 24 个配置文件。由 ECP (89086030) 制造。即将推出。"
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "1 MB capacity, ~24 profiles. By ECP (89086030). Coming soon."
+      # Chinese description.
+      zh: "1 MB 容量，约 24 个配置文件。由 ECP (89086030) 制造。即将推出。"
+      # Japanese description.
+      ja: "1 MB 容量、約 24 プロファイル。ECP (89086030) 製。近日公開予定。"
+
+    # Card storage size in KB.
+    sizeKB: 1024
+
+    # EID prefix or sample.
+    eid: "89086030"
+
+    # Product image URL.
+    image: https://www.9esim.com/wp-content/uploads/2025/04/蓝色V0.png
+
+    # Whether the product is announced but not yet available.
+    comingSoon: true
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: false
+
+    # Whether the listing is sponsored.
+    sponsored: false
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://detail.tmall.com/item.htm?id=1014785513871
+
+        # Store identifier.
+        store: tmall
+
+        # Store display label.
+        label: 天猫
+
+        # ISO 3166-1 alpha-2 shipping country.
+        shippingCountry: CN
+
+  # Product name.
+  - name: 9eSIM v0
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 13.5
+      # Original price amount.
+      amount: 15
+      # ISO 4217 currency code.
+      currency: USD
+
+    # Default description text.
+    description: "500 KB capacity, ~12 profiles. By ECP (89086030). Entry-level 9eSIM card compatible with Standard build and 9eSIM official app."
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "500 KB capacity, ~12 profiles. By ECP (89086030). Entry-level 9eSIM card compatible with Standard build and 9eSIM official app."
+      # Chinese description.
+      zh: "500 KB 容量，约 12 个配置文件。由 ECP (89086030) 制造。入门级 9eSIM 卡，兼容 Standard 构建版本和 9eSIM 官方应用。"
+      # Japanese description.
+      ja: "500 KB 容量、約 12 プロファイル。ECP (89086030) 製。エントリーレベルの 9eSIM カードで、Standard ビルドと 9eSIM 公式アプリと互換性があります。"
+
+    # Card storage size in KB.
+    sizeKB: 500
+
+    # EID prefix or sample.
+    eid: "89086030"
+
+    # Product image URL.
+    image: https://www.9esim.com/wp-content/uploads/2025/04/蓝色V0.png
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: false
+
+    # Whether the listing is sponsored.
+    sponsored: false
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://9es.im/
+
+        # Store branding info.
+        storeName: 9eSIM
+
+      # Shop URL.
+      - url: https://detail.tmall.com/item.htm?id=910238284991
+
+        # Store identifier.
+        store: tmall
+
+        # Store display label.
+        label: 天猫
+
+        # ISO 3166-1 alpha-2 shipping country.
+        shippingCountry: CN

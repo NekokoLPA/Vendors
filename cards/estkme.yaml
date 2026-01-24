@@ -1,0 +1,188 @@
+# Brand-level grouping for easier maintenance on GitHub.
+# Display name for the brand.
+brand: ESTKme
+# List of physical cards for this brand.
+cards:
+
+  # Product name.
+  - name: ESTKme Light
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 90
+      # Original price amount.
+      amount: 100
+      # ISO 4217 currency code.
+      currency: HKD
+
+    # Default description text.
+    description: "320KiB storage space, supports purchasing additional capacity. 4-8 eSIMs meet daily needs, perfect for light users to explore without pressure."
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "320KiB storage space, supports purchasing additional capacity. 4-8 eSIMs meet daily needs, perfect for light users to explore without pressure."
+      # Chinese description.
+      zh: "320KiB 存储空间，支持购买额外容量。4-8 个 eSIM 满足日常需求，非常适合轻度用户轻松探索。"
+      # Japanese description.
+      ja: "320KiB ストレージスペース、追加容量の購入をサポート。4-8 個の eSIM で日常のニーズに対応、軽度ユーザーに最適です。"
+
+    # Card storage size in KB.
+    sizeKB: 320
+
+    # EID prefix or sample.
+    eid: "89049032"
+
+    # Product image URL.
+    image: https://api.estk.me/uploads/images/1762667023_db6b23cd.png
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - ESTKme
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - 6666666666a2bd0baf0a822766b4f6522500a655
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: true
+
+    # Whether the listing is sponsored.
+    sponsored: true
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://store.estk.me/products?code=nekoko
+
+        # Store branding info.
+        storeName: ESTKme
+
+  # Product name.
+  - name: ESTKme Plus
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 135
+      # Original price amount.
+      amount: 150
+      # ISO 4217 currency code.
+      currency: HKD
+
+    # Default description text.
+    description: "640KiB storage space, suitable for most users. 8-16 eSIMs meet frequent traveler needs, best value for money."
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "640KiB storage space, suitable for most users. 8-16 eSIMs meet frequent traveler needs, best value for money."
+      # Chinese description.
+      zh: "640KiB 存储空间，适合大多数用户。8-16 个 eSIM 满足频繁旅行者的需求，性价比最高。"
+      # Japanese description.
+      ja: "640KiB ストレージスペース、ほとんどのユーザーに適しています。8-16 個の eSIM で頻繁な旅行者のニーズに対応、最高のコストパフォーマンス。"
+
+    # Card storage size in KB.
+    sizeKB: 640
+
+    # EID prefix or sample.
+    eid: "89049032"
+
+    # Product image URL.
+    image: https://api.estk.me/uploads/images/1762667023_db6b23cd.png
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - ESTKme
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - 6666666666a2bd0baf0a822766b4f6522500a655
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: true
+
+    # Whether the listing is sponsored.
+    sponsored: true
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://store.estk.me/products?code=nekoko
+
+        # Store branding info.
+        storeName: ESTKme
+
+  # Product name.
+  - name: ESTKme Max
+
+    # Price information.
+    price:
+      # Discounted price amount.
+      discounted: 180
+      # Original price amount.
+      amount: 200
+      # ISO 4217 currency code.
+      currency: HKD
+
+    # Default description text.
+    description: "1600KiB storage space, maximum is the point. Store up to 60 eSIMs, enjoy the ultimate experience brought by the massive capacity."
+
+    # Localized descriptions.
+    descriptionIntl:
+      # English description.
+      en: "1600KiB storage space, maximum is the point. Store up to 60 eSIMs, enjoy the ultimate experience brought by the massive capacity."
+      # Chinese description.
+      zh: "1600KiB 存储空间，极致容量。最多可存储 60 个 eSIM，享受大容量带来的极致体验。"
+      # Japanese description.
+      ja: "1600KiB ストレージスペース、最大容量。最大 60 個の eSIM を保存可能、大容量がもたらす究極の体験をお楽しみください。"
+
+    # Card storage size in KB.
+    sizeKB: 1616
+
+    # EID prefix or sample.
+    eid: "89033023"
+
+    # Estimated number of eSIM profiles.
+    esimEstimate: up to 60
+
+    # Product image URL.
+    image: https://api.estk.me/uploads/images/1762667023_db6b23cd.png
+
+    # Supported companion apps.
+    otherApps:
+      # App name.
+      - ESTKme
+      # App name.
+      - EasyEUICC
+
+    # ARAM SHA-1s for derived capabilities.
+    aramSHA1s:
+      - 6666666666a2bd0baf0a822766b4f6522500a655
+      - 2a2fa878bc7c3354c2cf82935a5945a3edae4afa
+
+    # Whether ARAM SHA-1s can be changed by any app.
+    isAramSha1Changeable: true
+
+    # Whether the listing is sponsored.
+    sponsored: true
+
+    # Purchase links for this card.
+    shops:
+
+      # Shop URL.
+      - url: https://store.estk.me/products?code=nekoko
+
+        # Store branding info.
+        storeName: ESTKme
