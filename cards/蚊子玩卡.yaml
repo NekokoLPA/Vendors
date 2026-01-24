@@ -31,6 +31,9 @@ cards:
     # Card storage size in KB.
     sizeKB: 466
 
+    # Hard limit on supported profiles (blank means no limit).
+    maxSupportedProfiles: null
+
     # EID prefix or sample.
     eid: "89086030"
 

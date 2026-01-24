@@ -31,11 +31,11 @@ cards:
     # Card storage size in KB.
     sizeKB: 1536
 
+    # Hard limit on supported profiles (blank means no limit).
+    maxSupportedProfiles: null
+
     # EID prefix or sample.
     eid: "89044045"
-
-    # Estimated number of eSIM profiles.
-    esimEstimate: up to 50
 
     # Product image URL.
     image: https://www.9esim.com/wp-content/uploads/2025/01/红色V3-2.webp
@@ -107,11 +107,11 @@ cards:
     # Card storage size in KB.
     sizeKB: 1600
 
+    # Hard limit on supported profiles (blank means no limit).
+    maxSupportedProfiles: null
+
     # EID prefix or sample.
     eid: "89044045"
-
-    # Estimated number of eSIM profiles.
-    esimEstimate: up to 50
 
     # Product image URL.
     image: https://shop.wenziwanka.com/uploads/tinymce/images/8dbbdabb0cf25706f5c8adef31c1f6cc672f1107108e4.png
@@ -170,6 +170,9 @@ cards:
 
     # Card storage size in KB.
     sizeKB: 1024
+
+    # Hard limit on supported profiles (blank means no limit).
+    maxSupportedProfiles: null
 
     # EID prefix or sample.
     eid: "89086030"
@@ -237,6 +240,9 @@ cards:
 
     # Card storage size in KB.
     sizeKB: 500
+
+    # Hard limit on supported profiles (blank means no limit).
+    maxSupportedProfiles: null
 
     # EID prefix or sample.
     eid: "89086030"
