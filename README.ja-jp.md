@@ -2,7 +2,7 @@
 
 このリポジトリには、Nekoko LPA 2 で使用、対応されている物理 eSIM カードおよびカードリーダーに関するベンダー提供データが含まれています。
 
-**Language:** [中文](README.zh-cn.md) | [English](README.md) | **日本語**
+**Language:** [English](README.md) | [中文](README.zh-cn.md) | **日本語**
 
 ## 構造
 
