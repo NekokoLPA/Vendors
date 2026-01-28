@@ -2,7 +2,7 @@
 
 本仓库包含 NekokoLPA 2 支持的实体 eSIM 卡与读卡器的厂商数据。
 
-[English](README.md) | [日本語](README_ja-jp.md)
+**Language:** **中文** | [English](README.md) | [日本語](README_ja-jp.md)
 
 ## 结构
 
