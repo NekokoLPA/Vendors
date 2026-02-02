@@ -2,6 +2,8 @@
 
 本仓库包含 NekokoLPA 2 支持的实体 eSIM 卡与读卡器的厂商数据。
 
+**Language:** [English](README.md) | **中文** | [日本語](README.ja-jp.md)
+
 ## 结构
 
 - `cards/`：按品牌分组的实体 eSIM 卡 YAML
