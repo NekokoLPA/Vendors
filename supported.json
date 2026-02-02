@@ -1,0 +1,412 @@
+{
+  "physicalCards": [
+    {
+      "name": "9eSIM v3",
+      "price": {
+        "discounted": 21.6,
+        "amount": 24,
+        "currency": "USD"
+      },
+      "description": "1.5 MB capacity, up to 50 profiles. By Kigen (89044045). Latest 9eSIM card compatible with Standard build and 9eSIM official app.",
+      "descriptionIntl": {
+        "en": "1.5 MB capacity, up to 50 profiles. By Kigen (89044045). Latest 9eSIM card compatible with Standard build and 9eSIM official app.",
+        "zh": "1.5 MB 容量，最多 50 个配置文件。由 Kigen (89044045) 制造。最新的 9eSIM 卡，兼容 Standard 构建版本和 9eSIM 官方应用。",
+        "ja": "1.5 MB 容量、最大 50 プロファイル。Kigen (89044045) 製。最新の 9eSIM カードで、Standard ビルドと 9eSIM 公式アプリと互換性があります。"
+      },
+      "sizeKB": 1536,
+      "maxSupportedProfiles": 50,
+      "eid": "89044045",
+      "image": "https://www.9esim.com/wp-content/uploads/2025/01/红色V3-2.webp",
+      "otherApps": [
+        "EasyEUICC"
+      ],
+      "aramSHA1s": [
+        "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": false,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://9es.im/",
+          "storeName": "9eSIM",
+          "shippingCountry": null
+        },
+        {
+          "url": "https://detail.tmall.com/item.htm?id=910238284991",
+          "store": "tmall",
+          "label": "天猫",
+          "shippingCountry": "CN"
+        }
+      ],
+      "compatibility": {
+        "standard": true,
+        "multi": true,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "9eSIM V2S",
+      "price": {
+        "discounted": 99,
+        "amount": 99,
+        "currency": "CNY"
+      },
+      "description": "1.5 MB 容量，最多 50 个配置文件。由 Kigen (89044045) 制造。支持多设备（Android、iOS），可轻松切换配置文件。",
+      "descriptionIntl": {
+        "en": "1.5 MB capacity, up to 50 profiles. By Kigen (89044045). Supports multiple devices (Android, iOS) and allows easy profile switching.",
+        "zh": "1.5 MB 容量，最多 50 个配置文件。由 Kigen (89044045) 制造。支持多设备（Android、iOS），可轻松切换配置文件。",
+        "ja": "1.5 MB 容量、最大 50 プロファイル。Kigen (89044045) 製。複数のデバイス（Android、iOS）をサポートし、プロファイルの切り替えが簡単です。"
+      },
+      "sizeKB": 1600,
+      "maxSupportedProfiles": 50,
+      "eid": "89044045",
+      "image": "https://shop.wenziwanka.com/uploads/tinymce/images/8dbbdabb0cf25706f5c8adef31c1f6cc672f1107108e4.png",
+      "otherApps": [
+        "EasyEUICC"
+      ],
+      "aramSHA1s": [
+        "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": false,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://shop.wenziwanka.com/buy/21",
+          "storeName": "蚊子玩卡",
+          "shippingCountry": "CN"
+        }
+      ],
+      "compatibility": {
+        "standard": true,
+        "multi": true,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "9eSIM v0 Max",
+      "price": {
+        "discounted": 16.2,
+        "amount": 18,
+        "currency": "USD"
+      },
+      "description": "1 MB 容量，约 24 个配置文件。由 ECP (89086030) 制造。即将推出。",
+      "descriptionIntl": {
+        "en": "1 MB capacity, ~24 profiles. By ECP (89086030). Coming soon.",
+        "zh": "1 MB 容量，约 24 个配置文件。由 ECP (89086030) 制造。即将推出。",
+        "ja": "1 MB 容量、約 24 プロファイル。ECP (89086030) 製。近日公開予定。"
+      },
+      "sizeKB": 1024,
+      "maxSupportedProfiles": null,
+      "eid": "89086030",
+      "image": "https://www.9esim.com/wp-content/uploads/2025/04/蓝色V0.png",
+      "comingSoon": true,
+      "otherApps": [
+        "EasyEUICC"
+      ],
+      "aramSHA1s": [
+        "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": false,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://detail.tmall.com/item.htm?id=1014785513871",
+          "store": "tmall",
+          "label": "天猫",
+          "shippingCountry": "CN"
+        }
+      ],
+      "compatibility": {
+        "standard": true,
+        "multi": true,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "9eSIM v0",
+      "price": {
+        "discounted": 13.5,
+        "amount": 15,
+        "currency": "USD"
+      },
+      "description": "500 KB capacity, ~12 profiles. By ECP (89086030). Entry-level 9eSIM card compatible with Standard build and 9eSIM official app.",
+      "descriptionIntl": {
+        "en": "500 KB capacity, ~12 profiles. By ECP (89086030). Entry-level 9eSIM card compatible with Standard build and 9eSIM official app.",
+        "zh": "500 KB 容量，约 12 个配置文件。由 ECP (89086030) 制造。入门级 9eSIM 卡，兼容 Standard 构建版本和 9eSIM 官方应用。",
+        "ja": "500 KB 容量、約 12 プロファイル。ECP (89086030) 製。エントリーレベルの 9eSIM カードで、Standard ビルドと 9eSIM 公式アプリと互換性があります。"
+      },
+      "sizeKB": 500,
+      "maxSupportedProfiles": null,
+      "eid": "89086030",
+      "image": "https://www.9esim.com/wp-content/uploads/2025/04/蓝色V0.png",
+      "otherApps": [
+        "EasyEUICC"
+      ],
+      "aramSHA1s": [
+        "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": false,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://9es.im/",
+          "storeName": "9eSIM"
+        },
+        {
+          "url": "https://detail.tmall.com/item.htm?id=910238284991",
+          "store": "tmall",
+          "label": "天猫",
+          "shippingCountry": "CN"
+        }
+      ],
+      "compatibility": {
+        "standard": true,
+        "multi": true,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "eSIM.gg Card",
+      "price": {
+        "discounted": 6.99,
+        "amount": 6.99,
+        "currency": "USD"
+      },
+      "description": "480 KB 容量，约 12 个配置文件。采用 9eSIM v0 同款芯片 (89086030)。兼容 Standard 构建版本，适合预算有限但希望探索更多 eSIM 的用户。",
+      "descriptionIntl": {
+        "en": "480 KB capacity, ~12 profiles. Uses the same 9eSIM v0 chip (89086030). Compatible with Standard build, perfect for budget-conscious users exploring eSIM.",
+        "zh": "480 KB 容量，约 12 个配置文件。采用 9eSIM v0 同款芯片 (89086030)。兼容 Standard 构建版本，适合预算有限但希望探索更多 eSIM 的用户。",
+        "ja": "480 KB 容量、約 12 プロファイル。9eSIM v0 と同じチップ (89086030) を使用。Standard ビルドと互換性があり、予算に限りがあるが eSIM をもっと探索したいユーザーに最適です。"
+      },
+      "sizeKB": 480,
+      "maxSupportedProfiles": null,
+      "eid": "89086030",
+      "image": "https://esim.gg/esimgg.png",
+      "otherApps": [
+        "EasyEUICC"
+      ],
+      "aramSHA1s": [
+        "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": false,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://esim.gg/collab/esimgg",
+          "storeName": "eSIM.gg",
+          "shippingCountry": "CN"
+        }
+      ],
+      "compatibility": {
+        "standard": true,
+        "multi": true,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "ESTKme Light",
+      "price": {
+        "discounted": 90,
+        "amount": 100,
+        "currency": "HKD"
+      },
+      "description": "320KiB storage space, supports purchasing additional capacity. 4-8 eSIMs meet daily needs, perfect for light users to explore without pressure.",
+      "descriptionIntl": {
+        "en": "320KiB storage space, supports purchasing additional capacity. 4-8 eSIMs meet daily needs, perfect for light users to explore without pressure.",
+        "zh": "320KiB 存储空间，支持购买额外容量。4-8 个 eSIM 满足日常需求，非常适合轻度用户轻松探索。",
+        "ja": "320KiB ストレージスペース、追加容量の購入をサポート。4-8 個の eSIM で日常のニーズに対応、軽度ユーザーに最適です。"
+      },
+      "sizeKB": 320,
+      "maxSupportedProfiles": null,
+      "eid": "89049032",
+      "image": "https://api.estk.me/uploads/images/1762667023_db6b23cd.png",
+      "otherApps": [
+        "ESTKme",
+        "EasyEUICC",
+        "Any App"
+      ],
+      "aramSHA1s": [
+        "6666666666a2bd0baf0a822766b4f6522500a655",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": true,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://store.estk.me/products?code=nekoko",
+          "storeName": "ESTKme"
+        }
+      ],
+      "compatibility": {
+        "standard": false,
+        "multi": false,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "ESTKme Plus",
+      "price": {
+        "discounted": 135,
+        "amount": 150,
+        "currency": "HKD"
+      },
+      "description": "640KiB storage space, suitable for most users. 8-16 eSIMs meet frequent traveler needs, best value for money.",
+      "descriptionIntl": {
+        "en": "640KiB storage space, suitable for most users. 8-16 eSIMs meet frequent traveler needs, best value for money.",
+        "zh": "640KiB 存储空间，适合大多数用户。8-16 个 eSIM 满足频繁旅行者的需求，性价比最高。",
+        "ja": "640KiB ストレージスペース、ほとんどのユーザーに適しています。8-16 個の eSIM で頻繁な旅行者のニーズに対応、最高のコストパフォーマンス。"
+      },
+      "sizeKB": 640,
+      "maxSupportedProfiles": null,
+      "eid": "89049032",
+      "image": "https://api.estk.me/uploads/images/1762667023_db6b23cd.png",
+      "otherApps": [
+        "ESTKme",
+        "EasyEUICC",
+        "Any App"
+      ],
+      "aramSHA1s": [
+        "6666666666a2bd0baf0a822766b4f6522500a655",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": true,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://store.estk.me/products?code=nekoko",
+          "storeName": "ESTKme"
+        }
+      ],
+      "compatibility": {
+        "standard": false,
+        "multi": false,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "ESTKme Max",
+      "price": {
+        "discounted": 180,
+        "amount": 200,
+        "currency": "HKD"
+      },
+      "description": "1600KiB storage space, maximum is the point. Store up to 60 eSIMs, enjoy the ultimate experience brought by the massive capacity.",
+      "descriptionIntl": {
+        "en": "1600KiB storage space, maximum is the point. Store up to 60 eSIMs, enjoy the ultimate experience brought by the massive capacity.",
+        "zh": "1600KiB 存储空间，极致容量。最多可存储 60 个 eSIM，享受大容量带来的极致体验。",
+        "ja": "1600KiB ストレージスペース、最大容量。最大 60 個の eSIM を保存可能、大容量がもたらす究極の体験をお楽しみください。"
+      },
+      "sizeKB": 1616,
+      "maxSupportedProfiles": 62,
+      "eid": "89033023",
+      "image": "https://api.estk.me/uploads/images/1762667023_db6b23cd.png",
+      "otherApps": [
+        "ESTKme",
+        "EasyEUICC",
+        "Any App"
+      ],
+      "aramSHA1s": [
+        "6666666666a2bd0baf0a822766b4f6522500a655",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": true,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://store.estk.me/products?code=nekoko",
+          "storeName": "ESTKme"
+        }
+      ],
+      "compatibility": {
+        "standard": false,
+        "multi": false,
+        "sekiu": false
+      }
+    },
+    {
+      "name": "蚊子玩卡 S3",
+      "price": {
+        "discounted": 60,
+        "amount": 60,
+        "currency": "CNY"
+      },
+      "description": "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子玩卡社区 ARAM 配置文件。",
+      "descriptionIntl": {
+        "en": "Removable eSIM card with 466KB capacity, capable of storing 2-40 eSIM profiles. Compatible with Android Multi build only. Includes 1 ARAM profile from Wenziwanka community.",
+        "zh": "可移动 eSIM 卡，容量 466KB，可存储 2-40 个 eSIM 配置文件。仅兼容 Android Multi 构建版本。包含 1 个蚊子玩卡社区 ARAM 配置文件。",
+        "ja": "466KB 容量の取り外し可能な eSIM カードで、2-40 個の eSIM プロファイルを保存可能。Android Multi ビルドのみ互換性があります。Wenziwanka コミュニティの ARAM プロファイル 1 個を含みます。"
+      },
+      "sizeKB": 466,
+      "maxSupportedProfiles": null,
+      "eid": "89086030",
+      "image": "https://shop.wenziwanka.com/uploads/tinymce/images/6c6ed8ae6dc7aec7bef4698743274dde683876dc5fc7f.png",
+      "aramSHA1s": [
+        "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f",
+        "2a2fa878bc7c3354c2cf82935a5945a3edae4afa"
+      ],
+      "isAramSha1Changeable": false,
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://shop.wenziwanka.com/buy/18",
+          "storeName": "蚊子玩卡",
+          "shippingCountry": "CN"
+        }
+      ],
+      "otherApps": [
+        "EasyEUICC"
+      ],
+      "compatibility": {
+        "standard": true,
+        "multi": true,
+        "sekiu": false
+      }
+    }
+  ],
+  "cardReaders": [
+    {
+      "name": "9eSIM Card Reader",
+      "price": {
+        "discounted": 13.5,
+        "amount": 15,
+        "currency": "USD"
+      },
+      "description": "USB Type-C CCID reader",
+      "image": "https://www.9esim.com/wp-content/uploads/2024/07/2N5A9752_%E5%89%AF%E6%9C%AC-1-768x768.png",
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://www.9esim.com/cart/?add-to-cart=64&coupon=nekoko",
+          "storeName": "9eSIM"
+        }
+      ]
+    },
+    {
+      "name": "ESTKme Red BLE/CCID Dual-mode Reader",
+      "price": {
+        "discounted": 40.5,
+        "amount": 45,
+        "currency": "HKD"
+      },
+      "description": "Dual-mode card reader supporting both Bluetooth Low Energy (BLE) and USB CCID connections. Perfect for wireless and wired eSIM card management.",
+      "descriptionIntl": {
+        "en": "Dual-mode card reader supporting both Bluetooth Low Energy (BLE) and USB CCID connections. Perfect for wireless and wired eSIM card management.",
+        "zh": "支持蓝牙低功耗（BLE）和 USB CCID 连接的双模式读卡器。完美适用于无线和有线 eSIM 卡管理。",
+        "ja": "Bluetooth Low Energy（BLE）と USB CCID の両方の接続をサポートするデュアルモードカードリーダー。ワイヤレスおよび有線 eSIM カード管理に最適です。"
+      },
+      "image": "https://api.estk.me/uploads/images/1762667014_f0c649b1.png",
+      "sponsored": true,
+      "shops": [
+        {
+          "url": "https://store.estk.me/products/2?code=nekoko",
+          "storeName": "ESTKme"
+        }
+      ]
+    }
+  ]
+}
